@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsUp</string>
+    <string name="alrdaccount">Already have an account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edittext_hint"><font size="15">Enter Your Name</font></string>
+    <string name="et_about"><font size="15">Tell Us About</font></string>
+</resources>

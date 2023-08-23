@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67095564076",
+    "firebase_url": "https://nisarg-whatsup-default-rtdb.firebaseio.com",
+    "project_id": "nisarg-whatsup",
+    "storage_bucket": "nisarg-whatsup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67095564076:android:b8cc15a0f781c2b8f1a689",
+        "android_client_info": {
+          "package_name": "com.tooglamtogivedamn.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67095564076-b8csqa6hei9df5u4jr5ivt0gf6gh0v27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmgIBCz_zmg6v2XYeEuuokdHv9HwqgDnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67095564076-b8csqa6hei9df5u4jr5ivt0gf6gh0v27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
